@@ -1,0 +1,20 @@
+h1{
+
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  
+
+
+}
+.carousel-item img{
+    width: 100%;
+    height: 80vh;
+
+}
+div.accordion{
+    width: 70%;
+}
+.card-body img{
+    min-width: 50%;
+    max-height: 150px;
+}
